@@ -4,10 +4,10 @@
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/aminnausin/snapshot">
-<img src="https://github.com/aminnausin/snapshot/blob/main/generated/overview.svg#gh-dark-mode-only" alt="snapshot overview image for dark mode"/>
-<img src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-dark-mode-only" alt="snapshot languages image for dark mode"/>
-<img src="https://github.com/aminnausin/snapshot/blob/main/generated/overview.svg#gh-light-mode-only" alt="snapshot overview image for light mode"/>
-<img src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-light-mode-only" alt="snapshot languages image for light mode"/>
+<img src="./blob/main/generated/overview.svg#gh-dark-mode-only" alt="snapshot overview image for dark mode"/>
+<img src="./blob/main/generated/languages.svg#gh-dark-mode-only" alt="snapshot languages image for dark mode"/>
+<img src="./blob/main/generated/overview.svg#gh-light-mode-only" alt="snapshot overview image for light mode"/>
+<img src="./blob/main/generated/languages.svg#gh-light-mode-only" alt="snapshot languages image for light mode"/>
 </a>
 
 Generate visualisations of GitHub user and repository statistics with GitHub
