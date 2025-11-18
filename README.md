@@ -3,11 +3,11 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="./blob/main/generated/overview.svg">
-<img src="./blob/main/generated/overview.svg#gh-dark-mode-only" alt="snapshot overview image for dark mode"/>
-<img src="./blob/main/generated/languages.svg#gh-dark-mode-only" alt="snapshot languages image for dark mode"/>
-<img src="./blob/main/generated/overview.svg#gh-light-mode-only" alt="snapshot overview image for light mode"/>
-<img src="./blob/main/generated/languages.svg#gh-light-mode-only" alt="snapshot languages image for light mode"/>
+<a href="./main/generated/overview.svg">
+<img src="./main/generated/overview.svg#gh-dark-mode-only" alt="snapshot overview image for dark mode"/>
+<img src="./main/generated/languages.svg#gh-dark-mode-only" alt="snapshot languages image for dark mode"/>
+<img src="./main/generated/overview.svg#gh-light-mode-only" alt="snapshot overview image for light mode"/>
+<img src="./main/generated/languages.svg#gh-light-mode-only" alt="snapshot languages image for light mode"/>
 </a>
 
 Generate visualisations of GitHub user and repository statistics with GitHub
